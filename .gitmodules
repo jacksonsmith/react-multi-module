@@ -1,0 +1,12 @@
+[submodule "react-multi-module-core"]
+	path = react-multi-module-core
+	url = git@github.com:jacksonsmith/react-multi-module-core.git
+[submodule "react-multi-module-profile"]
+	path = react-multi-module-profile
+	url = git@github.com:jacksonsmith/react-multi-module-profile.git
+[submodule "react-multi-module-questions"]
+	path = react-multi-module-questions
+	url = git@github.com:jacksonsmith/react-multi-module-questions.git
+[submodule "react-multi-module-login"]
+	path = react-multi-module-login
+	url = git@github.com:jacksonsmith/react-multi-module-login.git
